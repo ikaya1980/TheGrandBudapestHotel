@@ -1,0 +1,9 @@
+C:\Users\basark\source\repos\TheGrandBudapestHotel\TheGrandBudapestHotel.Core\bin\Debug\netcoreapp2.2\TheGrandBudapestHotel.Core.deps.json
+C:\Users\basark\source\repos\TheGrandBudapestHotel\TheGrandBudapestHotel.Core\bin\Debug\netcoreapp2.2\TheGrandBudapestHotel.Core.dll
+C:\Users\basark\source\repos\TheGrandBudapestHotel\TheGrandBudapestHotel.Core\bin\Debug\netcoreapp2.2\TheGrandBudapestHotel.Core.pdb
+C:\Users\basark\source\repos\TheGrandBudapestHotel\TheGrandBudapestHotel.Core\obj\Debug\netcoreapp2.2\TheGrandBudapestHotel.Core.csproj.CoreCompileInputs.cache
+C:\Users\basark\source\repos\TheGrandBudapestHotel\TheGrandBudapestHotel.Core\obj\Debug\netcoreapp2.2\TheGrandBudapestHotel.Core.AssemblyInfoInputs.cache
+C:\Users\basark\source\repos\TheGrandBudapestHotel\TheGrandBudapestHotel.Core\obj\Debug\netcoreapp2.2\TheGrandBudapestHotel.Core.AssemblyInfo.cs
+C:\Users\basark\source\repos\TheGrandBudapestHotel\TheGrandBudapestHotel.Core\obj\Debug\netcoreapp2.2\TheGrandBudapestHotel.Core.dll
+C:\Users\basark\source\repos\TheGrandBudapestHotel\TheGrandBudapestHotel.Core\obj\Debug\netcoreapp2.2\TheGrandBudapestHotel.Core.pdb
+C:\Users\basark\source\repos\TheGrandBudapestHotel\TheGrandBudapestHotel.Core\obj\Debug\netcoreapp2.2\TheGrandBudapestHotel.Core.csprojAssemblyReference.cache

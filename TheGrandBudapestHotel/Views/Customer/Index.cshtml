@@ -1,0 +1,41 @@
+﻿@model IEnumerable<Customer>
+
+    @{
+        ViewData["Title"] = "Index";
+    }
+
+    <div class="container">
+        <table class="table table-striped">
+            <thead>
+                <tr>
+                    <th scope="col">#</th>
+                    <th scope="col">First Name</th>
+                    <th scope="col">Last Name</th>
+                    <th scope="col">Nationality</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach(var i in Model)
+                {
+                <tr>
+
+                    <td>
+                        @i.CustomerID
+                    </td>
+                    <td>
+                        @i.FirstName
+                    </td>
+                    <td>
+                        @i.LastName
+                    </td>
+                    <td>
+                        @i.Nationality.ToString()
+                    </td>
+
+                </tr>
+                }
+              
+            </tbody>
+        </table>
+
+    </div>

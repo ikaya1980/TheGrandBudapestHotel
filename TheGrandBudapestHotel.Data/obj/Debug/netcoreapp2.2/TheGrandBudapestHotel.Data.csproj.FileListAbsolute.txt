@@ -1,0 +1,12 @@
+C:\Users\basark\source\repos\TheGrandBudapestHotel\TheGrandBudapestHotel.Data\bin\Debug\netcoreapp2.2\TheGrandBudapestHotel.Data.deps.json
+C:\Users\basark\source\repos\TheGrandBudapestHotel\TheGrandBudapestHotel.Data\bin\Debug\netcoreapp2.2\TheGrandBudapestHotel.Data.dll
+C:\Users\basark\source\repos\TheGrandBudapestHotel\TheGrandBudapestHotel.Data\bin\Debug\netcoreapp2.2\TheGrandBudapestHotel.Data.pdb
+C:\Users\basark\source\repos\TheGrandBudapestHotel\TheGrandBudapestHotel.Data\obj\Debug\netcoreapp2.2\TheGrandBudapestHotel.Data.csprojAssemblyReference.cache
+C:\Users\basark\source\repos\TheGrandBudapestHotel\TheGrandBudapestHotel.Data\obj\Debug\netcoreapp2.2\TheGrandBudapestHotel.Data.csproj.CoreCompileInputs.cache
+C:\Users\basark\source\repos\TheGrandBudapestHotel\TheGrandBudapestHotel.Data\obj\Debug\netcoreapp2.2\TheGrandBudapestHotel.Data.AssemblyInfoInputs.cache
+C:\Users\basark\source\repos\TheGrandBudapestHotel\TheGrandBudapestHotel.Data\obj\Debug\netcoreapp2.2\TheGrandBudapestHotel.Data.AssemblyInfo.cs
+C:\Users\basark\source\repos\TheGrandBudapestHotel\TheGrandBudapestHotel.Data\obj\Debug\netcoreapp2.2\TheGrandBudapestHotel.Data.dll
+C:\Users\basark\source\repos\TheGrandBudapestHotel\TheGrandBudapestHotel.Data\obj\Debug\netcoreapp2.2\TheGrandBudapestHotel.Data.pdb
+C:\Users\basark\source\repos\TheGrandBudapestHotel\TheGrandBudapestHotel.Data\bin\Debug\netcoreapp2.2\TheGrandBudapestHotel.Core.dll
+C:\Users\basark\source\repos\TheGrandBudapestHotel\TheGrandBudapestHotel.Data\bin\Debug\netcoreapp2.2\TheGrandBudapestHotel.Core.pdb
+C:\Users\basark\source\repos\TheGrandBudapestHotel\TheGrandBudapestHotel.Data\obj\Debug\netcoreapp2.2\TheGrandBudapestHotel.Data.csproj.CopyComplete
