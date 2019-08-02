@@ -10,8 +10,7 @@ namespace TheGrandBudapestHotel.Core
 
     public class Customer 
     {
-        const string personNameFormat = "^[a-zA-Z]+(([',. -][a-zA-Z ])?[a-zA-Z]*)*$";
-
+        
         public int CustomerID { get; set; }
 
         public string FirstName { get; set; }
@@ -25,11 +24,7 @@ namespace TheGrandBudapestHotel.Core
         public bool Validate()
         {
             //TODO Gerekli kontrolleri yapacak. 
-            if (string.IsNullOrWhiteSpace(this.FirstName))
-                return false;
-
-            Regex regex = new Regex(personNameFormat);
-            return regex.Match(this.FirstName).Success;
+           throw new NotImplementedException();
             
         }
     }
